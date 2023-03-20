@@ -1,0 +1,15 @@
+C:\Users\lucas\Documents\la engine\tests\3\La engine vt3\La engine vt3\bin\Debug\net6.0\LaEngine.exe
+C:\Users\lucas\Documents\la engine\tests\3\La engine vt3\La engine vt3\bin\Debug\net6.0\LaEngine.deps.json
+C:\Users\lucas\Documents\la engine\tests\3\La engine vt3\La engine vt3\bin\Debug\net6.0\LaEngine.runtimeconfig.json
+C:\Users\lucas\Documents\la engine\tests\3\La engine vt3\La engine vt3\bin\Debug\net6.0\LaEngine.dll
+C:\Users\lucas\Documents\la engine\tests\3\La engine vt3\La engine vt3\bin\Debug\net6.0\LaEngine.pdb
+C:\Users\lucas\Documents\la engine\tests\3\La engine vt3\La engine vt3\obj\Debug\net6.0\LaEngine.csproj.AssemblyReference.cache
+C:\Users\lucas\Documents\la engine\tests\3\La engine vt3\La engine vt3\obj\Debug\net6.0\LaEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\la engine\tests\3\La engine vt3\La engine vt3\obj\Debug\net6.0\LaEngine.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\la engine\tests\3\La engine vt3\La engine vt3\obj\Debug\net6.0\LaEngine.AssemblyInfo.cs
+C:\Users\lucas\Documents\la engine\tests\3\La engine vt3\La engine vt3\obj\Debug\net6.0\LaEngine.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\la engine\tests\3\La engine vt3\La engine vt3\obj\Debug\net6.0\LaEngine.dll
+C:\Users\lucas\Documents\la engine\tests\3\La engine vt3\La engine vt3\obj\Debug\net6.0\refint\LaEngine.dll
+C:\Users\lucas\Documents\la engine\tests\3\La engine vt3\La engine vt3\obj\Debug\net6.0\LaEngine.pdb
+C:\Users\lucas\Documents\la engine\tests\3\La engine vt3\La engine vt3\obj\Debug\net6.0\LaEngine.genruntimeconfig.cache
+C:\Users\lucas\Documents\la engine\tests\3\La engine vt3\La engine vt3\obj\Debug\net6.0\ref\LaEngine.dll
