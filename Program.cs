@@ -9,9 +9,9 @@ namespace laEngine
             ChessBoard board = new ChessBoard();
             while(true)
             {
-                string i = Console.ReadLine();
-                string command = i.Split()[0];  
-                string[] arguements = i.Split();
+                string cmd = Console.ReadLine();
+                string command = cmd.Split()[0];  
+                string[] arguements = cmd.Split();
 
                 switch (command)
                 {
